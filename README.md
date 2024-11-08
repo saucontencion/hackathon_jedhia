@@ -17,10 +17,3 @@ La estructura organizada de este repositorio permitirá a todos los miembros del
 ## Primer Desafío Propuesto: Análisis de Encuesta de Perfiles, Profesiones e Intereses
 
 Uno de los primeros desafíos que proponemos es trabajar con **una encuesta sobre perfiles, profesiones e intereses** de la comunidad de IA. Este desafío consistirá en analizar los datos obtenidos de la encuesta para extraer patrones de comportamiento, intereses comunes y tendencias dentro de la comunidad.
-
-### Objetivos:
-1. **Análisis de intereses y profesiones**: Aplicar técnicas de NLP para identificar y categorizar los intereses y profesiones más comunes entre los participantes.
-2. **Generación de recomendaciones**: Usar los resultados del análisis para generar recomendaciones personalizadas para los miembros de la comunidad, como posibles áreas de aprendizaje, proyectos de colaboración o eventos relevantes.
-3. **Clasificación y visualización**: Desarrollar modelos que clasifiquen las respuestas en categorías específicas (por ejemplo, tecnología, educación, investigación) y presenten visualmente estos datos para facilitar la interpretación.
-
-Este desafío servirá como base para aplicar conceptos de NLP a datos reales y generar resultados tangibles que beneficien a la comunidad de IA.
